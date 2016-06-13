@@ -1,0 +1,29 @@
+body {
+	 background-color: #004B87;
+}
+
+#header-nav {
+	background-color: #75787B;
+	border-radius: 0;
+	border: 0;
+	height: 100px;
+}
+
+.navbar-brand h1 {
+	color: #000;
+	font-family: Ubuntu;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+#long-text {
+	height: 1000px;
+	color: #000;
+}
+
+h2 {
+	color: #000;
+	margin-bottom: 25px;
+}
