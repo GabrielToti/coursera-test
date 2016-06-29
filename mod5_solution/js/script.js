@@ -79,7 +79,6 @@ document.addEventListener("DOMContentLoaded", function (event) {
 // so it can be called when server responds with the categories data.
 
 // *** start ***
-// Updated by L. Dobrowolski, 2016
 // On first load, show home view
 showLoading("#main-content");
 $ajaxUtils.sendGetRequest(
